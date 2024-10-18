@@ -1,0 +1,29 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  background-color: rgb(223, 255, 244);
+  padding: 20px;
+}
+
+p {
+  padding: 10px;
+}
+
+img{
+  max-width: 50%;
+  max-height: 50%
+}
+
+.container {
+  display: flex;
+  background-color: rgb(0, 119, 79);
+  gap: 1rem;
+  padding: 10px;
+}
+
+.box1 {
+  flex: 1;
+  background-color: rgb(221, 255, 221);
+  text-align: left;
+  padding-left: 10px;
+}
